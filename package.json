@@ -5,7 +5,7 @@
 	"types": "./typings.d.ts",
 	"main": "bot.js",
 	"scripts": {
-		"start": "node bot.js"
+		"start": "node ."
 	},
 	"repository": {
 		"type": "git",
